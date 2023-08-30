@@ -1,0 +1,3 @@
+seed	100
+fastq	mock_reads.MAP.fastq
+frac	0.85

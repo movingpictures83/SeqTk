@@ -1,0 +1,2 @@
+Prefix plugins/SeqTk/example
+Plugin SeqTk inputfile parameters.txt outputfile subsample.fastq
